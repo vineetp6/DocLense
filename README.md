@@ -1,14 +1,5 @@
 ![DocLense](./readme_assets/doclense_banner.png)
 
-![Issues](https://img.shields.io/github/issues/smaranjitghose/DocLense)
-![Pull Requests](https://img.shields.io/github/issues-pr/smaranjitghose/DocLense?)
-![Forks](https://img.shields.io/github/forks/smaranjitghose/DocLense)
-![Stars](https://img.shields.io/github/stars/smaranjitghose/DocLense)
-![License](https://img.shields.io/github/license/smaranjitghose/DocLense)
-
-<div align="center"><a href="https://play.google.com/store/apps/details?id=com.anushbhatia.doclense"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=70px /></a></div>
-<hr>
-
 ## Features🔬 :
 
 - Scan your documents with ease!
