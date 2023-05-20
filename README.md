@@ -1,4 +1,3 @@
-![DocLense](./readme_assets/doclense_banner.png)
 
 ## Features🔬 :
 
